@@ -14,5 +14,6 @@ https://dianamaria-dev.github.io/maze-game-js/
 - HTML
 - CSS
 - JavaScript
-<img width="1914" height="867" alt="Captură de ecran 2026-03-31 221546" src="https://github.com/user-attachments/assets/bf00ebd1-9c8a-423f-ba0a-32640a150d79" />
+
+## Gameplay
 ![Gameplay](maze.gif)
